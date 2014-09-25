@@ -1,0 +1,10 @@
+body {
+    background: rgb(114, 140, 166);
+}
+
+#transformation-plane {
+    width: 50%;
+    height: 50%;
+    transform-origin: 0px 0px 0px;
+    -webkit-transform-origin: 0px 0px 0px;
+}
